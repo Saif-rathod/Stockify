@@ -16,7 +16,7 @@ This repository contains a Python script that analyzes and predicts Tesla's stoc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tesla-stock-analysis.git
+   git clone https://github.com/Saif-rathod/Stockify.git
    cd tesla-stock-analysis
 
 2. Install the required dependencies:
@@ -81,5 +81,5 @@ MSE            10.5                12.3
 Contributions are always welcome!
 Please open an issue or submit a pull request for any improvements or bug fixes.
 
-
+MIT Licence.
 
